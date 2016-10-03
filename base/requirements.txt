@@ -1,0 +1,10 @@
+beautifulsoup4==4.5.1
+conda==4.1.11
+conda-env==2.5.0a0
+lxml==3.6.4
+pycosat==0.6.1
+pycrypto==2.6.1
+PyYAML==3.11
+requests==2.10.0
+ruamel-yaml===-VERSION
+selenium==2.53.6
